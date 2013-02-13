@@ -1,3 +1,3 @@
 <?php
-	require("controller.php");
-	$app = new Controller();
+require("controller.php");
+$app = new Controller();
